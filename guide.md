@@ -96,6 +96,16 @@ NOTE: replace my alias `jvlewis` and module names to match YOUR setup (i.e `cc-4
 </project>
 ```
 
+---
+
+# IMPORTANT
+
+The following instructions assume your peer's code DOES NOT have a `pom.xml` file.
+However, it is possible one already exists... (they use maven for example)
+In this case, you can incorporate that existing pom.xml file OR try to create a new one.
+
+---
+
 4. For each peer project, create pom.xml in YOUR directory created (i.e `cc-4-1-TEST`)
 
 NOTE: there's things to replace with your paths/setup, keep reading...
