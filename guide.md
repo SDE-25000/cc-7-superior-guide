@@ -2,7 +2,7 @@
 
 0. Git clone YOUR cc-7 repo and go into root directory of it
 ```
-git https://github.com/SDE-25000/cc-7-0-java-testing-challenge-[YOUR-ALIAS]
+git clone https://github.com/SDE-25000/cc-7-0-java-testing-challenge-[YOUR-ALIAS]
 cd cc-7-0-java-testing-challenge-[YOUR-ALIAS]
 ```
 2. Add chosen peer repo as git submodule
